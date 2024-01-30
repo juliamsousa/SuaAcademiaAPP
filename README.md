@@ -1,2 +1,3 @@
 # SuaAcademiaAPP
+
 Aplicativo em React
